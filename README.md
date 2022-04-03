@@ -46,3 +46,6 @@ refer this one https://www.cloudbooklet.com/install-rust-on-ubuntu-18-04-lts/
 in order to run west cmd, add below in .bashrc
 
 PATH=$PATH:${HOME}/.local/bin
+
+# J-link driver
+download from https://www.segger.com/downloads/jlink/, to match my j link, need to use JLink_Linux_V634_x86_64
